@@ -1,0 +1,19 @@
+.sample {
+    position: absolute;
+    top: 100px;
+    left: 20px;
+    background-color: #fcc;
+    color: #660;
+    font-weight: 700;
+    font-family: Impact;
+    font-size: 18pt;
+    width: 100px;
+    height: 100px;
+/*
+    background-color: #fcc;
+    color: #600;
+    font-weight: 700;
+    font-family: Impact;
+    font-size: 24pt;    
+*/
+}
